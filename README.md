@@ -10,4 +10,4 @@
 - 💋 Skills -- HTML,CSS,JS,REACT,Thoda thoda Python, etc
 - 👨‍🎓 Certified -- Web Developer
 
-## "Life begins at the end of your comfort zone"
+> > "Life begins at the end of your comfort zone"
