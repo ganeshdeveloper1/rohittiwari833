@@ -1,4 +1,4 @@
-### Hi there , Rohit is here 👋
+### Hi there , Ganesh is here 👋
 
 - 🔭 I’m currently working on -- CanWeBe!
 - 🌱 I’m currently learning -- React , ML and AI
