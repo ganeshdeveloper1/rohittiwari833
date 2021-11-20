@@ -1,8 +1,7 @@
 ### Hi there , Ganesh is here 👋
 
 - 🔭 I’m currently working on -- CanWeBe!
-- 🌱 I’m currently learning -- React , ML and AI
-- 👯 I’m looking to collaborate on -- Movie Projects
+- 🌱 I’m currently learning -- React , ML and AI.
 - 💬 Ask me about -- Web Project
 - 📫 How to reach me: -- rohittiwari7262@gmail.com
 - ⚡ Fun fact :- love to play games
